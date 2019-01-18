@@ -14,6 +14,19 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
+                            <div class="slider-pro" id="my-slider">
+                                <div class="sp-slides">
+                                    <!-- Slide 1 -->
+                                    <div class="sp-slide">
+                                        <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                                    </div>
+
+                                    <!-- Slide 2 -->
+                                    <div class="sp-slide">
+                                        <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                                    </div>
+                                </div>
+                            </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
