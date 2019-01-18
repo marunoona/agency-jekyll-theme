@@ -10,7 +10,7 @@ alt: image-alt
 project-date: 2016-06-29 ~ 2017-09-12
 client: Ksign
 category: Borland C++, Install Shield
-description: KsignSecureDB Admiㅜ Console Development
+description: KsignSecureDB Admin Console Development
 ---
 ##### 담당업무
 * Admin Console의 전체 업무를 단독으로 담당
