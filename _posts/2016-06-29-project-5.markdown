@@ -1,0 +1,14 @@
+---
+title: KsignSecureDB Admin
+subtitle: Admin Console
+layout: default
+modal-id: 5
+date: 2016-06-15
+img: securedb_1.5v_tablelise.png
+thumbnail: sdb_1.5v_login.png
+alt: image-alt
+project-date: June 2016
+client: -
+category: Console Development
+description: KsignSecureDB Admin Console. 
+---
