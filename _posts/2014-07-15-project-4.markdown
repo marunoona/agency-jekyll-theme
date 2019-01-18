@@ -10,10 +10,8 @@ alt: image-alt
 project-date: 2016-06-29 ~ 2017-09-12
 client: Ksign
 category: Borland C++, Install Shield
-description: KsignSecureDB Admi Console Development
-
+description: KsignSecureDB Admiㅜ Console Development
 ---
 ##### 담당업무
 * Admin Console의 전체 업무를 단독으로 담당
-* 이슈사항 처리 및 신규 기능 개발과 Bug Fix
-* CS 프로그램 설치를 위한 Install Shield Build 작업 등
+* 이슈사항 처리 및 신규 기능 개발과 Bug Fix, CS 프로그램 설치를 위한 Install Shield Build 작업 등
