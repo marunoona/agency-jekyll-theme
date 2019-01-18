@@ -1,0 +1,17 @@
+---
+title: KsignSecureDB Syncor 
+subtitle: 키 동기화 유틸리티 프로그램
+layout: default
+modal-id: 2
+date: 2017-10-01
+img: 
+thumbnail: syncor_arch.png
+alt: image-alt
+project-date: 2017.10.01 ~ 2017.10.24
+client: Ksign
+category: Java, SSL, Factory Pattern
+description: Master Server와 Slave Server간의 데이터를 동기화 해주는 프로그램. Windows 환경에서 MSSQL DBMS 데이터를 동기화 함
+---
+##### 담당업무
+* 프로젝트 구조 설계, 기능 설계 및 구현 등 프로젝트 전반의 업무를 단독으로 담당하여 진행
+* 바이너리 Build 및 배포, 배치파일 생성 등

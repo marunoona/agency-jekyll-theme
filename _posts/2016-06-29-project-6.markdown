@@ -2,12 +2,12 @@
 title: KsignSecureDB Admin
 subtitle: Admin Console
 layout: default
-modal-id: 4
+modal-id: 6
 date: 2014-07-15
 img: securedb_1.5v_tablelise.png
 thumbnail: sdb_1.5v_login.png
 alt: image-alt
-project-date: 2016-06-29 ~ 2017-09-12
+project-date: 2016.06.29 ~ 2017.09.12
 client: Ksign
 category: Borland C++, Install Shield
 description: KsignSecureDB Admin Console Development
