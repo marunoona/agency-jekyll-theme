@@ -10,6 +10,7 @@ alt: image-alt
 project-date: June 2016
 client: -
 category: Console Development
-description: KsignSecureDB Admin Console. 
+description: KsignSecureDB Admin Console.
+ 
 ---
 
