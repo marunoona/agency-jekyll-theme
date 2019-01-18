@@ -13,7 +13,7 @@ category: Java, Spring Framework, Embedded Tomcat, ibatis, WebSocket, MVC Patter
 description: KsignSecureDB Admin 제품을 재설계하여 새롭게 개발한 웹 프로젝트
 ---
 ##### 담당업무
-* Web Admin Console 개발 중 Back-end를 담당하여 Server가 수행해야 할 기능을 개발함
+* Web Admin Console 개발 중 Back-end를 담당하여 Server가 수행해야 할 기능을 개발
 * Agent 연동 기능, Work-flow Engine 개발 및 유지보수, Common Crypto API 개발
 * DBMS PL/SQL 및 DB Script작성, 스케쥴링 기능 개발, Thread 작업, File I/O 작업 등
 * CC인증 진행
