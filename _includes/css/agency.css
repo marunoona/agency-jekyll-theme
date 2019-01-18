@@ -137,7 +137,8 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    /*background-color: #{{ site.data.template.color.secondary }};*/
+    background-color: #f9f5f3
 }
 
 .btn-xl:active,
@@ -184,7 +185,8 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.data.template.color.secondary }};
+    /*color: #{{ site.data.template.color.secondary }};*/
+    color: #fff
 }
 
 .navbar-default .navbar-collapse {
