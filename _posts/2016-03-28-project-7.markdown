@@ -4,8 +4,8 @@ subtitle: 태안군청 파일 암호화
 layout: default
 modal-id: 7
 date: 2016-03-28
-img: file_end.png
-thumbnail: file_enc_thumnail.png
+img: file_enc.png
+thumbnail: file_enc_thumbnail.png
 alt: image-alt
 project-date: 2016-03-28 ~ 2016-04-05
 client: Ksign
