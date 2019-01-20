@@ -1,11 +1,11 @@
 ---
-title: 우리은행 POC
+title: 우리은행 POC/수협은행 POC
 subtitle: POC
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2016-11-30
 img: none.png
-thumbnail: woori_logo_thumb.png
+thumbnail: bank_logo_thumb.png
 alt: image-alt
 project-date: 2016.11.30 ~ 2017.01.02
 client: Ksign
