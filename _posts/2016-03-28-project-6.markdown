@@ -2,7 +2,7 @@
 title: File encryption 
 subtitle: 태안군청 파일 암호화
 layout: default
-modal-id: 7
+modal-id: 6
 date: 2016-03-28
 img: file_enc.png
 thumbnail: file_enc_thumbnail.png
