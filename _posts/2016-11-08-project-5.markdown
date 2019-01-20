@@ -2,7 +2,7 @@
 title: KsignSecureDB Admin Revision
 subtitle: Admin Console Revision Project
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2016-11-08
 img: v1.5_revision_setting.png 
 thumbnail: v1.5_revision_main.png
@@ -15,3 +15,5 @@ description: C# Admin CS Console Development
 ##### 담당업무
 * 프로젝트 구조 및 기능 설계, 기능 구현 등 프로젝트 전반의 업무를 단독으로 담당
 * 화면 레이아웃 구성 및 구현
+* Sever와 SSL 통신을 통해 데이터를 주고받고 가공하여 화면에 표현
+* Oracle, MSSQL 환경에서 사용할 수 있도록 구현

@@ -1,0 +1,18 @@
+---
+title: 수협은행 POC 
+subtitle: POC
+layout: default
+modal-id: 3
+date: 2017-06-16
+img: suhyup_logo.png
+thumbnail: suhyup_logo_thumb.png 
+alt: image-alt
+project-date: 2017.06.16 ~ 2017.07.05
+client: Ksign
+category: C / Window,Linux, HP-UX, Soloris, AIX
+description: C-API Development
+---
+##### 담당업무
+* 수협은행 POC 진행 -  C-API 개발 
+* 지정된 길이만큼 암호화, 복호화가 가능하도록 하는 기능 개발
+* 요구사항에 대한 기능 정의 및 개발, 다양한 OS 환경에서 C Library 컴파일 및 빌드 업무를 담당
