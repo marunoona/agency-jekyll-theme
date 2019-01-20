@@ -7,7 +7,7 @@ date: 2016-11-30
 img: none.png
 thumbnail: bank_logo_thumb.png
 alt: image-alt
-project-date: 2016.11.30 ~ 2017.07.05
+project-date: ---
 client: Ksign
 category: ---
 description: 우리은행, 수협은행 POC 진행
