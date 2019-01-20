@@ -4,8 +4,8 @@ subtitle: Admin Console Revision Project
 layout: default
 modal-id: 5
 date: 2016-11-08
-img: 
-thumbnail: 
+img: v1.5_revision_main.png
+thumbnail: v1.5_revision_setting.png
 alt: image-alt
 project-date: 2016.11.08 ~ 2017.06.05
 client: Ksign
