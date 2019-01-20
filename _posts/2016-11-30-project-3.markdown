@@ -1,5 +1,5 @@
 ---
-title: 우리은행 POC/수협은행 POC
+title: 우리은행/수협은행 POC
 subtitle: POC
 layout: default
 modal-id: 3
