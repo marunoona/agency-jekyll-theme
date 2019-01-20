@@ -4,7 +4,7 @@ subtitle: 키 동기화 유틸리티 프로그램
 layout: default
 modal-id: 2
 date: 2017-10-01
-img: 
+img: none.png
 thumbnail: syncor_arch.png
 alt: image-alt
 project-date: 2017.10.01 ~ 2017.10.24

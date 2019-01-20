@@ -4,7 +4,7 @@ subtitle: POC
 layout: default
 modal-id: 4
 date: 2016-11-30
-img: woori_logo.png
+img: none.png
 thumbnail: woori_logo_thumb.png
 alt: image-alt
 project-date: 2016.11.30 ~ 2017.01.02
