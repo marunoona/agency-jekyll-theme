@@ -1,23 +1,25 @@
 ---
-title: 우리은행 POC/수협은행 POC 
+title: 우리은행 POC
 subtitle: POC
 layout: default
 modal-id: 3
 date: 2016-11-30
-img: 
-thumbnail: 
+img: woori_logo.png
+thumbnail: woori_logo.png
 alt: image-alt
-project-date: 우리은행 : 2016.11.30 ~ 2017.01.02 / 수협은행 : 2017.06.16 ~ 2017.07.05
+project-date: 2016.11.30 ~ 2017.01.02
 client: Ksign
-category: Borland C++, Install Shield, C / Window,Linux, HP-UX, Soloris, AIX
-description: Solution Development
+category: Borland C++, Install Shield
+description: 우리은행 POC 진행
 ---
 ##### 담당업무
 1. 우리은행 POC 
 * 요구사항에 대한 기능 설계 및 Admin Console 기능, 화면 개발
 * Admin Console UI 설계 및 구현
-* Borland C++, Install Shield
+* Project Term : 2016.11.30 ~ 2017.01.02
+* Used : Borland C++, Install Shield
 2. 수협은행 POC
 * C-API 개발 - 지정된 길이만큼 암호화, 복호화가 가능하도록 하는 기능 개발
 * 요구사항에 대한 기능 정의 및 개발, 다양한 OS 환경에서 C Library 컴파일 및 빌드 업무를 담당
-* C / Window,Linux, HP-UX, Soloris, AIX
+* Project Term : 2017.06.16 ~ 2017.07.05
+* Used : C / Window,Linux, HP-UX, Soloris, AIX
