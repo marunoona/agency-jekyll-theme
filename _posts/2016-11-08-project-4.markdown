@@ -1,5 +1,5 @@
 ---
-title: KsignSecureDB Admin Revision
+title: C# Admin Console
 subtitle: Admin Console Revision Project
 layout: default
 modal-id: 4
