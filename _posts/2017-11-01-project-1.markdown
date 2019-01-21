@@ -9,7 +9,7 @@ thumbnail: v35_login_edit.png
 alt: image-alt
 project-date: 2017.11.01 ~ 현재
 client: Ksign
-category: Java, Spring Framework, Embedded Tomcat, ibatis, WebSocket, MVC Pattern, Singleton Pattern
+category: Java, Spring Framework, Embedded Tomcat, ibatis, WebSocket, MVC Pattern, Singleton Pattern / Oracle, Tibero, MSSQL
 description: KsignSecureDB Admin 제품을 재설계하여 새롭게 개발한 웹 프로젝트
 ---
 ##### 담당업무

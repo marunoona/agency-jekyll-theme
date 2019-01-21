@@ -9,7 +9,7 @@ thumbnail: syncor_arch.png
 alt: image-alt
 project-date: 2017.10.01 ~ 2017.10.24
 client: Ksign
-category: Java, SSL, Factory Pattern
+category: Java, SSL, Factory Pattern / MSSQL
 description: Master Server와 Slave Server간의 데이터를 동기화 해주는 프로그램. Windows 환경에서 MSSQL DBMS 데이터를 동기화 함
 ---
 ##### 담당업무
