@@ -77,6 +77,11 @@ background-color: #{{ site.data.template.color.primary }};
     background-color: #CCCCCC;
 }
 
-.portfolio-modal .modal-content .modal-title {
+.portfolio-modal .modal-desc {
+    text-align: left;
+}
+
+
+.portfolio-modal .modal-desc {
     text-align: center;
 }
