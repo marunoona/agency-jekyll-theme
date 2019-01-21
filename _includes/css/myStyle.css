@@ -29,6 +29,13 @@ a.active {
     color: #fff;
 }
 
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand.active {
+    color: #{{ site.data.template.color.primary }};
+}
+
 .btn-xl {
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
