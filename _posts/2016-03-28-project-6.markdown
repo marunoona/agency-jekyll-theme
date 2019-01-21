@@ -1,6 +1,6 @@
 ---
-title: File encryption 
-subtitle: 태안군청 파일 암호화
+title: File Encryption 
+subtitle: Taean County Office File Encryption
 layout: default
 modal-id: 6
 date: 2016-03-28
@@ -14,5 +14,5 @@ description: C#을 이용한 파일 암호화 유틸리티 프로그램
 ---
 ##### 담당업무
 * 프로젝트 구조 설계 및 프로그램 기능 개발 업무 담당
-* 재귀함수를 이용하여 Root 폴더의 하위 폴더에 존재하는 파일이 모두 암호화될 수 있도록 개발
+* 재귀함수를 이용하여 사용자가 지정한 Base Directory 하위에 존재하는 파일이 모두 암호화될 수 있도록 개발
  

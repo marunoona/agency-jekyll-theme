@@ -1,6 +1,6 @@
 ---
 title: KsignSecureDB Syncor 
-subtitle: 키 동기화 유틸리티 프로그램
+subtitle: Key Synchronize Program
 layout: default
 modal-id: 2
 date: 2017-10-01
