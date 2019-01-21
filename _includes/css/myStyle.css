@@ -77,6 +77,6 @@ background-color: #{{ site.data.template.color.primary }};
     background-color: #CCCCCC;
 }
 
-.portfolio-modal .modal-content button {
+.portfolio-modal .modal-content .modal-title {
     text-align: center;
 }
