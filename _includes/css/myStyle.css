@@ -27,19 +27,18 @@ a.active {
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #fff;
-
 }
 
 .btn-xl {
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
-border-radius: 3px;
-text-transform: uppercase;
-font-family: {{ site.data.template.font.primary }};
-font-size: 18px;
-font-weight: 700;
-color: #fff;
-background-color: #{{ site.data.template.color.primary }};
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .btn-xl:hover,
@@ -55,7 +54,8 @@ background-color: #{{ site.data.template.color.primary }};
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #CCCCCC;
+    /*color: #CCCCCC;*/
+    color : #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a {
