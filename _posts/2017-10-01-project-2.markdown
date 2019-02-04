@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2017-10-01
 img: none.png
-thumbnail: syncor_arch.png
+thumbnail: header-bg2.png
 alt: image-alt
 project-date: 2017.10.01 ~ 2017.10.24
 client: Ksign
