@@ -14,11 +14,17 @@ description: 우리은행, 수협은행 POC 진행
 ---
 ##### 담당업무
 ##### 1. 우리은행 POC 
+{: .text-left }
 * 요구사항에 대한 기능 설계 및 Admin Console 기능, 화면 개발
+{: .text-left }
 * Admin Console에서 API Agent에 대한 관리가 가능하도록 기능 구현
+{: .text-left }
 * Admin Console UI 설계 및 구현
+{: .text-left }
 * Project Term : 2016.11.30 ~ 2017.01.02
+{: .text-left }
 * Used : Borland C++, Install Shield
+{: .text-left }
 ##### 2. 수협은행 POC 
 * C-API 개발 
 * 지정된 길이만큼 암호화, 복호화가 가능하도록 하는 기능 개발
