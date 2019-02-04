@@ -1,6 +1,6 @@
 ---
-title: KsignSecureDB v35 
-subtitle: KsignSecureDB v35 Revision
+title: KsignSecureDB v3.5 
+subtitle: KsignSecureDB v3.5 Admin Console
 layout: default
 modal-id: 1
 date: 2017-11-01
@@ -13,8 +13,14 @@ category: Java, Spring Framework, Embedded Tomcat, ibatis, WebSocket, MVC Patter
 description: KsignSecureDB Admin 제품을 재설계하여 새롭게 개발한 웹 프로젝트
 ---
 ##### 담당업무
+{: .text-left }
 * Web Admin Console 개발 중 Back-end를 담당하여 Server가 수행해야 할 기능을 개발
+{: .text-left }
 * Agent 연동 기능, Work-flow Engine 개발 및 유지보수, Common Crypto API 개발
-* DBMS PL/SQL 및 DB 암호화/복호화 Script작성 
+{: .text-left }
+* DBMS PL/SQL 및 DB 암호화/복호화 Script작성
+{: .text-left } 
 * 스케쥴링 기능 개발, Thread 작업, File I/O 작업 등
+{: .text-left }
 * CC인증 진행
+{: .text-left }

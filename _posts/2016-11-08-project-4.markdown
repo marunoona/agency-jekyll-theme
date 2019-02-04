@@ -1,6 +1,6 @@
 ---
 title: C# Admin Console
-subtitle: Admin Console Revision Project
+subtitle: KsignSecureDB Admin Console Revision
 layout: default
 modal-id: 4
 date: 2016-11-08
@@ -12,8 +12,13 @@ client: Ksign
 category: C#, WPF, MVVM Pattern, SSL / Oracle, MSSQL
 description: C# Admin CS Console Development
 ---
-##### 담당업무
+##### 담당업무=
+{: .text-left }
 * 프로젝트 구조 및 기능 설계, 기능 구현 등 프로젝트 전반의 업무를 단독으로 담당
+{: .text-left }
 * 화면 레이아웃 구성 및 구현
+{: .text-left }
 * Sever와 SSL 통신을 통해 데이터를 주고받고 가공하여 화면에 표현
+{: .text-left }
 * Oracle, MSSQL 환경에서 사용할 수 있도록 구현
+{: .text-left }

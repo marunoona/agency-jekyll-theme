@@ -13,5 +13,8 @@ category: Java, SSL, Factory Pattern / MSSQL
 description: Master Server와 Slave Server간의 데이터를 동기화 해주는 프로그램. Windows 환경에서 MSSQL DBMS 데이터를 동기화 함
 ---
 ##### 담당업무
+{: .text-left }
 * 프로젝트 구조 설계, 기능 설계 및 구현 등 프로젝트 전반의 업무를 단독으로 담당하여 진행
+{: .text-left }
 * 바이너리 Build 및 배포, 배치파일 생성 등
+{: .text-left }
