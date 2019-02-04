@@ -81,7 +81,6 @@ background-color: #{{ site.data.template.color.primary }};
     text-align: left;
 }
 
-
 .portfolio-modal .modal-desc {
     text-align: center;
 }
