@@ -80,7 +80,3 @@ background-color: #{{ site.data.template.color.primary }};
 .portfolio-modal .modal-content .modal-title {
     text-align: left;
 }
-
-.portfolio-modal .modal-desc {
-    text-align: center;
-}
