@@ -12,7 +12,8 @@ client: Ksign
 category: C#, WPF, MVVM Pattern, SSL / Oracle, MSSQL
 description: C# Admin CS Console Development
 ---
-##### 담당업무
+#### 담당업무
+{: .text-left }
 * 프로젝트 구조 및 기능 설계, 기능 구현 등 프로젝트 전반의 업무를 단독으로 담당
 {: .text-left }
 * 화면 레이아웃 구성 및 구현
