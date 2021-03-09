@@ -2,7 +2,7 @@
 title: C# Admin Console
 subtitle: KsignSecureDB Admin Console Revision
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2016-11-08
 img: v1.5_revision_setting_edit.png 
 thumbnail: v1.5_revision_main_edit.png
