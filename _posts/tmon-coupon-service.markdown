@@ -1,6 +1,6 @@
 ---
 title: TMON 쿠폰/즉시할인 서비스 
-<!--subtitle: -->
+subtitle:
 layout: default
 modal-id: 1
 date: 2020-07-01
